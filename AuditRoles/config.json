@@ -1,0 +1,14 @@
+[
+    {
+        "UserPrincipalName": "user1@domain.com",
+        "TenantID": "<tenant_id>"
+    },
+    {
+        "UserPrincipalName": "user2@domain.com",
+        "TenantID": "<tenant_id>"
+    },
+    {
+        "UserPrincipalName": "user3@domain.com",
+        "TenantID": "<tenant_id>"
+    }
+]
